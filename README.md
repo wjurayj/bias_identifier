@@ -1,4 +1,4 @@
-# bias_identifier
+# Bias Scaling
 
 This is the code for my senior thesis, Scaling Bias in Journalism using Contextual Embeddings.
 
